@@ -15,14 +15,15 @@ var tests = []test{
 	{"canção", "cancao"},
 	{"dragão", "dragao"},
 	{"exercício", "exercicio"},
+	{"el niño", "el nino"},
 	{"fantástico", "fantastico"},
+	{"gabriel", "gabriel"},
 	{"hã", "ha"},
 	{"ícaro", "icaro"},
 	{"já", "ja"},
 	{"key", "key"},
 	{"ĺĩôà", "lioa"},
 	{"mãe", "mae"},
-	{"el niño", "el nino"},
 }
 
 // Return a string without accent
