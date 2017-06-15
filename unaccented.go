@@ -1,10 +1,11 @@
+// Package to tranform text accent in unaccent.
 package unaccented
 
 import (
 	"regexp"
 )
 
-// Return a string without accent
+// Unacented returns a string unaccent.
 func Unaccented(str string) string {
 	replace := map[string]string{
 		"[áàãâä]": "a",
