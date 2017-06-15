@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"unaccented"
+	"github.com/alvesgabriel/unaccented"
 )
 
 func main() {
