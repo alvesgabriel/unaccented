@@ -1,4 +1,4 @@
-// Package to tranform text accent in unaccent.
+// Package to transform text accent in unaccent.
 package unaccented
 
 import (
